@@ -1,5 +1,5 @@
 # The-Dispersion-Box
-This toolbox allows you to calculate the dispersion behavior of elastic/viscoelastic orthotropic multi-layered materials
+This toolbox allows you to calculate the dispersion behavior of elastic/viscoelastic orthotropic multi-layered plates
 
 This toolbox is designed and created in Matlab 2021b. Besides, it is a standalone app and it doesn't require any license.  
 
