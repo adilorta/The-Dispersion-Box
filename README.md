@@ -5,6 +5,10 @@ This toolbox is designed and created in Matlab 2021b. Besides, it is a standalon
 
 App will download Matlab Runtime automatically. If you have any questions/comments/feedbacks, we would like to hear them!
 
-Soon, we will publish the theoretical background of the app with an article called "A comparative study for calculating dispersion curves in viscoelastic multi-layered plates".
+The theoretical background of the toolbox can be found in following references
 
-We will share a short video of how to use this toolbox as well!
+Orta, Adil Han, et al. "A comparative study for calculating dispersion curves in viscoelastic multi-layered plates." Composite Strutures (2022): 115779.
+Orta, Adil Han, et al. "Modelling lamb wave propagation in visco-elastic composite plates using a fifth-order plate theory." Ultrasonics (2021): 106482.
+Orta, Adil Han, et al. "Novel algorithm for the computation of group and energy velocities of Lamb waves." arXiv (2022): 2205.11390.
+
+
