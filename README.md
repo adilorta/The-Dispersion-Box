@@ -1,7 +1,17 @@
 # The-Dispersion-Box
-This toolbox allows you to calculate the dispersion behavior of elastic/viscoelastic orthotropic multi-layered plates
+A free standalone tool - TheDispersionBox- to compute dispersion and attenuation curves in multi-layer viscoelastic orthotropic plates is connected to this publication (see (https://doi.org/10.1016/j.compstruct.2022.115779)).
 
-This toolbox is designed and created in Matlab 2021b. Besides, it is a standalone app and it doesn't require any license.  
+TheDispersionBox contains different computational methods which can be selected by the user to compute guided wave dispersion behavior:
+
+1. Matrix methods: global matrix, stiffness matrix, hybrid stiffness-compliance matrix
+ 
+2. SAFE semi-analytical finite element method
+
+3. LPM Legendre Polynomial Method
+
+3. SDT 5th-order shear deformation theory
+
+This toolbox is designed and created in Matlab 2021b.
 
 App will download Matlab Runtime automatically. If you have any questions/comments/feedbacks, we would like to hear them!
 
